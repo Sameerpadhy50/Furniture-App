@@ -15,7 +15,7 @@
 
 <h3 align="center"><a href="https://furnituretry-official.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
 
-### 🔗 Live Deployed URL: https://furnituretry-official.netlify.app/
+### 🔗 Live Deployed URL: 
 
 <br />
 <br />
@@ -67,45 +67,6 @@
 <br />
 <br />
 
-## Team Members:
 
-<h3>Team Lead: <b>Prateek Agrawal (fw20_0114)</b> </h3>
-<a href="https://linkedin.com/in/prateekbka">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
-</a>
-<a title="prateek.bka@gmail.com" href="mailto:prateek.bka@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="prateek.bka@gmail.com" />
-</a>
-<br />
-<h3>Member 1: <b>Sajan Kumar (fw20_1131)</b> </h3>
-<a href="https://linkedin.com/in/sajan-kumar-gupta">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
-</a>
-<a title="sajan99559@gmail.com" href="mailto:sajan99559@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sajan99559@gmail.com" />
-</a>
-<br />
-
-<h3>Member 2: <b>Sameer Kumar Padhy (fw20_1255)</b> </h3>
-<a href="https://linkedin.com/in/sameer-kumar-padhy-4019ba131">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" />
-</a>
-<a title="sameerpadhy50@gmail.com" href="mailto:sameerpadhy50@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sameerpadhy50@gmail.com" />
-</a>
-<br />
-
-<br />
-<br />
-
-## Project Code:
-
-<h3>lazy-hose-3359</h3>
-<h3>IA: vivek.goswami@masaischool.com</h3>
-
-<br />
-<br />
-
-## Show your support
 
 Give a ⭐️ if you like this project!
