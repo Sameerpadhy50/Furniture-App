@@ -1,0 +1,65 @@
+/* style={{border:"1px solid gray",display:"flex",gap:"50px"}} 
+*/
+.cart-container {
+  padding: 1rem;
+  width: 70%;
+  margin: auto;
+}
+
+.cart-body {
+  display: flex;
+  gap: 1rem;
+  border: 1px solid gray;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 15px;
+  padding: 1%;
+}
+/* background-color: #008CBA; */
+.inc {
+  padding: 5px 10px;
+  margin: auto;
+  border: none;
+  font-size: large;
+  font-weight: 800;
+  color: rgb(57, 56, 56);
+}
+
+.inc_btn {
+  background-color: rgb(184, 120, 2);
+  color: white;
+  display: grid;
+  text-align: center;
+  margin-top: 3rem;
+  justify-content: center;
+  align-content: center;
+
+  padding: 1rem;
+  height: 3rem;
+  font-size: x-large;
+}
+
+.total {
+  text-align: center;
+  font-size: xx-large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+}
+
+.cart_notLogged_status {
+  display: grid;
+  align-content: center;
+  margin: 5rem;
+  justify-content: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: x-large;
+  color: rgb(121, 6, 6);
+}
+
+.checkout_button {
+  background-color: rgb(103, 103, 1);
+  color: white;
+  padding: 1rem;
+  margin: 1rem;
+}
